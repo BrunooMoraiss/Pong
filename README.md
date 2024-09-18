@@ -1,1 +1,1 @@
-# Pong2
+# Pong
